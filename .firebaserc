@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-ed48f": {
+      "hosting": {
+        "DAKeep": [
+          "danotes-ed48f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-ed48f"
+  }
+}
